@@ -1,0 +1,25 @@
+canvas {
+	border: 1px solid rgba(115, 255, 80, 0.37);
+}
+
+.canvas__wrapper {
+	text-align: center;
+}
+
+.coins-wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.coins-wrapper img {
+	display: block;
+	height: 50px;
+	width: 50px;
+	margin-right: 10px;
+}
+
+.coins-wrapper span {
+	font-size: 30px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
